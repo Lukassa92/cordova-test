@@ -1,0 +1,16 @@
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\Debug\x64\win10\ReverseMap\resources.pri
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\Debug\x64\win10\AppxManifest.xml
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\Debug\x64\win10\CordovaApp.Windows10.build.appxrecipe
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\ResourceHandlingTask.state
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\priconfig.xml
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\layout.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\resources.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\pri.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\ProjectArchitectures.txt

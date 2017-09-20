@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NBHQ36</Machine>
+    <WindowsUser>Lukas</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c4311070-9c86-11e7-b664-b587c89b613e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F066D4D0F0E606845AC28455C0D8A1BDE94C4CBEAE48F889C3D9B32DDC554976</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.point.ssp_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.point.ssp_h35559jr9hy9m!com.point.ssp</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.point.ssp</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\Debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-20T07:02:17.953</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2017-09-18T15:33:49.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2017-09-18T15:33:49.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-18T15:33:49.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+      <Modified>2017-09-18T15:33:49.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2017-09-18T15:33:56.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2017-09-18T15:33:56.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2017-09-20T07:01:53.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+      <Modified>2017-09-20T07:51:18.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-barcodescanner\www\barcodescanner.js">
+      <PackagePath>www\plugins\cordova-plugin-barcodescanner\www\barcodescanner.js</PackagePath>
+      <Modified>2017-09-20T07:01:53.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js</PackagePath>
+      <Modified>2017-09-20T07:01:30.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-camera\www\Camera.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\Camera.js</PackagePath>
+      <Modified>2017-09-20T07:01:30.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraConstants.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraConstants.js</PackagePath>
+      <Modified>2017-09-20T07:01:30.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js</PackagePath>
+      <Modified>2017-09-20T07:01:30.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js</PackagePath>
+      <Modified>2017-09-20T07:01:30.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
+      <Modified>2017-09-19T13:15:19.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js</PackagePath>
+      <Modified>2017-09-19T13:15:19.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-sqlite-storage\src\windows\sqlite-proxy.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\src\windows\sqlite-proxy.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3JS\js\SQLite3.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3JS\js\SQLite3.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\plugins\cordova-sqlite-storage\www\SQLitePlugin.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\www\SQLitePlugin.js</PackagePath>
+      <Modified>2017-09-18T16:21:56.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2017-09-18T15:33:56.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\css\inappbrowser.css">
+      <PackagePath>www\css\inappbrowser.css</PackagePath>
+      <Modified>2017-09-19T13:15:18.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2017-09-18T16:21:56.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2017-09-18T15:33:56.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2017-09-20T07:48:14.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2017-09-18T16:21:55.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\windows\Debug\x64\win10\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-20T07:02:17.745</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

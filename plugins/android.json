@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.point.ssp"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.point.ssp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.point.ssp"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.point.ssp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.point.ssp"
+        },
+        "cordova-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.point.ssp"
+        }
+    },
+    "dependent_plugins": {}
+}

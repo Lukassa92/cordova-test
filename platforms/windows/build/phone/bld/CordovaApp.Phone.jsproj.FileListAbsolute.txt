@@ -1,0 +1,17 @@
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\debug\anycpu\resources.pri
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\priconfig.xml
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\layout.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\resources.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\pri.resfiles
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\qualifiers.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\package.map.txt
+C:\Users\Lukas\Documents\Projekte\ssp\platforms\windows\build\phone\bld\_pkginfo.txt
